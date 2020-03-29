@@ -1,10 +1,6 @@
 ---
-title: My First Post
+title: 10 things that require zero talent
 date: 2020-03-28T21:53:00.000Z
-description: First post
+description: 10 things that require zero talent
 ---
-Adding some text to the first post
-
-
-
-![](/images/uploads/10-things-that-require-zero-talent.jpg)
+![10 things that require zero talent](/images/uploads/10-things-that-require-zero-talent.jpg)
