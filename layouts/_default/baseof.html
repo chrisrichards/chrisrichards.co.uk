@@ -43,6 +43,7 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="https://cdn.usefathom.com/script.js" data-site="MASMAMSV" defer></script>
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
