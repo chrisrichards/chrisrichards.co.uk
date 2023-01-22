@@ -1,7 +1,7 @@
 baseURL = "https://chrisrichards.co.uk/"
 languageCode = "en-gb"
 title = "Chris Richards"
-theme = "ananke"
+theme = "paper"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
