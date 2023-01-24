@@ -33,6 +33,9 @@ enableRobotsTXT = true
   avatar = 'chris@chrisrichards.co.uk'
   name = 'Chris'
 
+[params.fathom]
+    siteId = "MASMAMSV"
+
 [menu]
 
   [[menu.main]]
