@@ -18,8 +18,9 @@ My interests include:
 
 You can find me on:
 
-- <a rel="me" href="https://mastodon.social/@chrisrichards">Mastodon</a>
-
+<p>
+    <a rel="me" href="https://mastodon.social/@chrisrichards">Mastodon</a>
+</p>
 
 Thank you for visiting.
 
