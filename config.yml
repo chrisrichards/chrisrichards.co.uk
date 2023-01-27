@@ -30,6 +30,16 @@ params:
   name: Chris
   fathom:
     siteId: MASMAMSV
+  socials:
+    - name: github
+      url: https://github.com/chrisrichards
+    - name: mastodon
+      url: https://mastodon.social/@chrisrichards
+    - name: printables
+      url: https://www.printables.com/social/94683-chris-r
+    - name: email
+      url: mailto:chris@chrisrichards.co.uk
+
 menu:
   main:
     - identifier: home
