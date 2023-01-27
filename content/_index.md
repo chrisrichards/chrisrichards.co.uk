@@ -7,7 +7,7 @@ layout: 'page'
 
 👋 Hello! I'm Chris Richards. I'm a husband, father and software engineer living in Winchester, United Kingdom.
 
-This is my personal website where I write the occassional [blog](/blog) post, show off some of the [projects](/projects) I'm working or have worked on. There's also a [now](/now) page [that tells you what this person is focused on at this point in their life](https://nownownow.com/about).
+This is my personal website where I write the occasional [blog](/blog) post, show off some of the [projects](/projects) I'm working on or have worked on. There's also a [now](/now) page which tells you what I'm currently up to.
 
 My interests include:
 
