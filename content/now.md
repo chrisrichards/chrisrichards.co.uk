@@ -13,7 +13,7 @@ Winchester, United Kingdom
 
 ## Work
 
-- Contracting as a Softweare Engineer on the mobile team at [PureGym](https://puregym.com)
+- Contracting as a Software Engineer on the mobile team at [PureGym](https://puregym.com)
 - [Yellow Feather](https://yellowfeather.com)
 - [Kanban Live](https://kanbanlive.com)
 
