@@ -17,7 +17,7 @@ C# decoder for Automatic Identification System (AIS) for tracking ships and deco
 
 Online AIS parser / decoder.
 
-[aisparser.net](aisparser.net)
+[aisparser.net](https://aisparser.net)
 [AisParser.net](https://github.com/yellowfeather/AisParser.net)
 
 ## DBF Data Reader
