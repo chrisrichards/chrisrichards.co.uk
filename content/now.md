@@ -25,12 +25,13 @@ Winchester, United Kingdom
 
 ## Currently Reading
 
-- An Officer Not A Gentleman - Mandy Hickson
+- Bravo Two Zero - Andy McNabb
 
 ## Last Five Books I Read
 
+- An Officer Not A Gentleman - Mandy Hickson
 - Lifehacked - Allen Wong
 - Hello World: How Algorithms will Define our Future and Why We Should Learn To Live With It - Hannah Fry
 - Half the Path: Minehead to Penzance in 9 days. Via the pub - Richard Meston
 - Your Friend Forever - Zena Barrie
-- Box 88 - Charles Cumming
+
