@@ -1,11 +1,11 @@
 ---
 title: Now
 description: Now
-date: 2023-01-24
+date: 2023-03-05
 author: chris.richards
 ---
 
-This is my [now](https://sive.rs/now) page, updated on 24/1/23.
+This is my [now](https://sive.rs/now) page, updated on 5th March 2023.
 
 ## Location
 
